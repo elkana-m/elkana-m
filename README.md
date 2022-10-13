@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elkana-m
 - 👀 I’m interested in 🎸📱✈🏀
-- 🌱 I’m currently learning to fly fpv
+- 🌱 I’m currently learning to fly fpv drones
 - 💞️ I’m looking to collaborate on any android 📱 project
 - 📫 How to reach me kanahcode@gmail.com
 
