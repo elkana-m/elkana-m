@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elkana-m
+- 👋 Hi, I’m elkana ✨
 - 👀 I’m interested in 🎸📱✈🏀
 - 🌱 I’m currently learning to fly fpv 🚁
 - 💞️ I’m looking to collaborate on any android 📱 project
