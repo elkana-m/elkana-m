@@ -1,5 +1,5 @@
 - 👋 Hi, I’m elkana ✨
-- 👀 I’m interested in 🎸📱✈🏀
+- 👀 I’m a lifelong learner who enjoys 🎸📱✈🏀
 - 🌱 I’m currently learning to fly fpv 🚁
 - 💞️ I’m looking to collaborate on any Android/iOS 📱 project
 - 📫 How to reach me kanahcode@gmail.com
