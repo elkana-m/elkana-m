@@ -1,7 +1,7 @@
 - 👋 Hi, I’m elkana ✨
-- 👀 I’m a lifelong learner who enjoys 🎸📱✈🏀
-- 🌱 I’m currently learning to fly fpv 🚁
-- 💞️ I’m looking to collaborate on any Android/iOS 📱 project
+- 🚁 I'm an fpv drone pilot
+- 💞️ I’m passionate about the quality of user experience
+- 🌱 I’m either building apps (📱 + 💻 ) or running tests
 - 📫 How to reach me kanahcode@gmail.com
 
 <!---
